@@ -9,6 +9,7 @@
 - :house: I live in Riga, Latvia.
 - :computer: I'm currently working as a Software Developer.
 - :dart: I'm currently working on my Flight planner project.
+- :book: Started to learn Ruby on Rails.
 - :coffee: I love coffee.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
