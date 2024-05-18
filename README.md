@@ -1,16 +1,28 @@
-### Hi there <img src="https://github.com/MartinHeinz/MartinHeinz/blob/2c8183ecfed52696e2f657d13228c6c056385262/wave.gif" width="30px">, I am Raivis Zelcs
+Hi there <img src="https://github.com/MartinHeinz/MartinHeinz/blob/2c8183ecfed52696e2f657d13228c6c056385262/wave.gif" width="30px">, I am Raivis
+<h1 align="left" id="macropower-title">Hi there <img src="https://github.com/MartinHeinz/MartinHeinz/blob/2c8183ecfed52696e2f657d13228c6c056385262/wave.gif" width="30px">, I am Raivis</h1>
 
-<!--
-**Zelchs/Zelchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="#Zelchs-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zelchs&show_icons=true" alt="Zelchs" align="right" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :house: I'm currently living at Riga, Latvia.
+- :computer: I'm currently working as a Software Developer.
+- :dart: I'm currently working on my Flight planner project.
+- :coffee: I love coffee.
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const RAIVIS = {
+  pronouns: "He/Him",
+  backend: ["Java"],
+  frontend: ["HTML", "Javascript", "ReactJs", "CSS", "Typescript"],
+  database: ["Postgresql", "mySQL", "Redis"],
+  challenge: "Learn new skills everyday, follow up tech trends"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
