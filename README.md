@@ -3,10 +3,10 @@ Hi there <img src="https://github.com/MartinHeinz/MartinHeinz/blob/2c8183ecfed52
 
 
 <a href="#Zelchs-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zelchs&show_icons=true" alt="Zelchs" align="right" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelchs&layout=compact&theme=buefy&hide_border=true" />
 </a>
 
-- :house: I'm currently living at Riga, Latvia.
+- :house: I live in Riga, Latvia.
 - :computer: I'm currently working as a Software Developer.
 - :dart: I'm currently working on my Flight planner project.
 - :coffee: I love coffee.
