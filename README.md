@@ -1,4 +1,4 @@
-Hi there <img src="https://github.com/MartinHeinz/MartinHeinz/blob/2c8183ecfed52696e2f657d13228c6c056385262/wave.gif" width="30px">, I am Raivis
+
 <h1 align="left" id="macropower-title">Hi there <img src="https://github.com/MartinHeinz/MartinHeinz/blob/2c8183ecfed52696e2f657d13228c6c056385262/wave.gif" width="30px">, I am Raivis</h1>
 
 
