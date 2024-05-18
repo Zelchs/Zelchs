@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/vawe.gif" width="30px">, I am Raivis Zelcs
+### Hi there <img src="https://github.com/MartinHeinz/MartinHeinz/blob/2c8183ecfed52696e2f657d13228c6c056385262/wave.gif" width="30px">, I am Raivis Zelcs
 
 <!--
 **Zelchs/Zelchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
