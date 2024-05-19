@@ -23,7 +23,7 @@ const RAIVIS = {
 }
 ```
 
- <a href="https://www.linkedin.com/in/peterthehan">
+ <a href="https://www.linkedin.com/in/raivis-zelcs">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a> <em><b>Feel free to connect me on LinkedIn! I am open to new connections.</b> :)</em>
 
 ---
