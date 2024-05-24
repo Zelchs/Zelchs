@@ -16,7 +16,7 @@
 ```javascript
 const RAIVIS = {
   pronouns: "He/Him",
-  backend: ["Java", "Basic Ruby"],
+  backend: ["Java", "Ruby on Rails"],
   frontend: ["HTML", "Javascript", "ReactJs", "CSS", "Typescript"],
   database: ["Postgresql", "mySQL", "Redis"],
   challenge: "Learn new skills everyday, follow up tech trends"
