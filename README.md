@@ -4,7 +4,7 @@
 - :house: I live in Riga, Latvia.
 - :computer: I'm currently working as a Software Developer.
 - :dart: I'm currently working on my Flight planner project.
-- :book: Started to learn Ruby on Rails.
+- :book: Started to learn Ruby on Rails and Nextjs.
 - :coffee: I love coffee.
 
 <a href="#Zelchs-title">
