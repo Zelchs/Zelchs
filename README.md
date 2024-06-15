@@ -4,7 +4,7 @@
 - :house: I live in Riga, Latvia.
 - :computer: I'm currently working as a Software Developer.
 - :dart: I'm currently working on my Flight planner project.
-- :book: Started to learn Ruby on Rails and Nextjs.
+- :book: Actively learning Java as back-end and trying to catch up wit front-end as well.
 - :coffee: I love coffee.
 
 <a href="#Zelchs-title">
@@ -16,9 +16,9 @@
 ```javascript
 const RAIVIS = {
   pronouns: "He/Him",
-  backend: ["Java", "Ruby on Rails"],
+  backend: ["Java", "NodeJs"],
   frontend: ["HTML", "Javascript", "ReactJs", "CSS", "Typescript"],
-  database: ["Postgresql", "mySQL", "Redis"],
+  database: ["Postgresql", "mySQL"],
   challenge: "Learn new skills everyday, follow up tech trends"
 }
 ```
