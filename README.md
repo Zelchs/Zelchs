@@ -3,7 +3,6 @@
 
 - :house: I live in Riga, Latvia.
 - :computer: I'm currently working as a Software Developer.
-- :dart: I'm currently working on my Flight planner project.
 - :book: Actively learning Java as back-end and trying to catch up with front-end as well.
 - :coffee: I love coffee.
 
