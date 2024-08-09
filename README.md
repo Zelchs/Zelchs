@@ -15,9 +15,10 @@
 ```javascript
 const RAIVIS = {
   pronouns: "He/Him",
-  backend: ["Java", "NodeJs"],
+  backend: ["Java", "Kotlin", "NodeJs"],
   frontend: ["HTML", "Javascript", "ReactJs", "CSS", "Typescript"],
   database: ["Postgresql", "mySQL"],
+  versionControl: ["Git", "GitHub"],
   challenge: "Learn new skills everyday, follow up tech trends"
 }
 ```
